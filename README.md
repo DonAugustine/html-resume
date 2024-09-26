@@ -1,2 +1,2 @@
 # html-resume
-I created my resume using HTML.
+My resume created with HTML.
